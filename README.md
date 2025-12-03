@@ -21,7 +21,7 @@ certs/
 
 ## Certificate Generation
 
-All actions are done automatically via the **Generate** button in the GUI.  
+All actions are done automatically via the **Create** button in the GUI.  
 OpenSSL must be installed on your system.
 
 Commands executed internally by the program:
