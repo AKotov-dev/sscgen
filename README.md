@@ -4,6 +4,8 @@ Minimal GUI tool to generate self-signed certificates and keys for Trojan / 3x-u
 
 **Dependencies:** gtk2 (libgtk2.0-0), openssl
 
+![](https://github.com/AKotov-dev/sscgen/blob/main/Snapshot1.png)
+
 ## Directory Structure
 
 All files are created **next to the executable** inside the `certs` folder:
