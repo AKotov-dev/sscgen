@@ -50,9 +50,9 @@ openssl pkcs12 -export -out p12/certificate.p12 \
 + **private.key / certificate.crt** — for 3x-ui, Trojan, XRay, and similar services.
 + **pem/combined.pem** — for OpenVPN or servers requiring a combined PEM.
 + **p12/certificate.p12** — for Windows, mobile clients, containers, CI/CD.
-+ Copy keys and certificates to clipboard via GUI buttons.
++ Copy `certificate.crt` and `private.key` to clipboard via GUI buttons.
 
 ## Notes
 + Keys are RSA 2048, self-signed.
 + No password is set on private key or .p12 to allow fully automated connections.
-+ pem/ and p12/ directories are created automatically on first run.
++ `pem/` and `p12/` directories are created automatically on first run.
