@@ -2,6 +2,8 @@
 
 Minimal GUI tool to generate self-signed certificates and keys for Trojan / 3x-ui / XRay / etc...
 
+**Dependencies:** gtk2 (libgtk2.0-0), openssl
+
 ## Directory Structure
 
 All files are created **next to the executable** inside the `certs` folder:
