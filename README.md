@@ -58,3 +58,6 @@ openssl pkcs12 -export -out p12/certificate.p12 \
 + Keys are RSA 2048, self-signed.
 + No password is set on private key or .p12 to allow fully automated connections.
 + `pem/` and `p12/` directories are created automatically on first run.
+
+## Disclaimer
+Made for people who hate typing commands manually. If you’re lazy like me, you’re welcome. ))
