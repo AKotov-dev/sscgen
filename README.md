@@ -1,6 +1,6 @@
 # sscgen
+
 Minimal GUI tool to generate self-signed certificates and keys for Trojan / 3x-ui / XRay / etc...
----
 
 ## Directory Structure
 
